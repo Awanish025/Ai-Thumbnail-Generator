@@ -1,4 +1,4 @@
-# Thumblify - AI YouTube Thumbnail Generator
+# Thumblify - AI  Thumbnail Generator
 
 > [!IMPORTANT]
 > 🚧 **This project is currently under active development.** Features and APIs are subject to change.
@@ -24,8 +24,8 @@ Thumblify is a powerful, AI-driven application designed to help content creators
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/AI_Youtube_Thumbnail_Generator.git
-cd AI_Youtube_Thumbnail_Generator
+git clone https://github.com/your-username/AI_Thumbnail_Generator.git
+cd AI_Thumbnail_Generator
 ```
 
 ### 2. Backend Setup
